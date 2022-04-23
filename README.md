@@ -1,4 +1,4 @@
-# stop-watch-in-javascript
+# stopwatch-in-javascript
 Learning javascript using the videos published by Bro Code on Youtube:
 
 A cool stopwatch written in JavaScript ⏱️ -> https://www.youtube.com/watch?v=8Nsb9cjmOVA
